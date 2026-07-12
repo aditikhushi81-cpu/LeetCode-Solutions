@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0406-queue-reconstruction-by-height](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0704-binary-search](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
