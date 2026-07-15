@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1122-relative-sort-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Array
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Greedy
 |  |
 | ------- |
