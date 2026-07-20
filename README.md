@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0406-queue-reconstruction-by-height](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
