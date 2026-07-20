@@ -17,7 +17,7 @@ public:
 
             maximumArea = max(maximumArea, currentArea);
 
-            if(height[left] <= height[right])
+            if(height[left] < height[right])
             {
                 left++;
             }
