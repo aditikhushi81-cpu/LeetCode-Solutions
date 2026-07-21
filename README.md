@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Math
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
