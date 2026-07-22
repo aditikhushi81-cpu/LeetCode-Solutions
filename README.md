@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
