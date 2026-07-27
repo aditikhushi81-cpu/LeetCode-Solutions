@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
