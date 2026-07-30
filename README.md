@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
