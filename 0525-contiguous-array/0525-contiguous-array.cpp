@@ -27,7 +27,7 @@ public:
             else {
 
                 // Store only the first occurrence
-                mp[prefixSum] += i;
+                mp[prefixSum] = i;
             }
         }
 
