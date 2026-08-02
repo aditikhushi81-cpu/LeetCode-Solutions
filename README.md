@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 ## Backtracking
 |  |
 | ------- |
