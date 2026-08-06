@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Backtracking
 |  |
