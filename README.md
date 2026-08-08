@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -375,5 +377,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
