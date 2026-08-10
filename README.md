@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
