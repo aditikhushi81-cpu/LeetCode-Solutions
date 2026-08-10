@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0969-pancake-sorting](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -388,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
