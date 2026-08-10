@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
