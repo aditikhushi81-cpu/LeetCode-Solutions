@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Memoization
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0969-pancake-sorting](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Binary Indexed Tree
 |  |
 | ------- |
