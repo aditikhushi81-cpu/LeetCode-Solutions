@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Memoization
 |  |
