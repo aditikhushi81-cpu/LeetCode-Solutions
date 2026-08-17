@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
