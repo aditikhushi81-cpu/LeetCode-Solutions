@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
