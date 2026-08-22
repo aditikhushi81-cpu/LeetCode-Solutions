@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
