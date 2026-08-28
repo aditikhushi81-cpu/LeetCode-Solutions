@@ -5,7 +5,7 @@ public:
         int left = 1;
         int right = n;
 
-        while (left = right) {
+        while (left <= right) {
 
             int mid = left + (right - left) / 2;
 
