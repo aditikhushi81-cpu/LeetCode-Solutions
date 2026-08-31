@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0954-array-of-doubled-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0969-pancake-sorting](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0954-array-of-doubled-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0954-array-of-doubled-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
