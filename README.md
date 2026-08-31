@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0046-permutations) |
