@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0771-jewels-and-stones](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0954-array-of-doubled-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0954-array-of-doubled-pairs) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0704-binary-search](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0912-sort-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0846-hand-of-straights](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0954-array-of-doubled-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0954-array-of-doubled-pairs) |
