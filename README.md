@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1512-number-of-good-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
