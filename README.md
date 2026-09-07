@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -537,4 +539,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
