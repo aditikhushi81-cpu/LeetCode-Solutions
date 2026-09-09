@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -543,4 +545,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
