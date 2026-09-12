@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0704-binary-search](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Queue
 |  |
