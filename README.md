@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1436-destination-city](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1436-destination-city) |
