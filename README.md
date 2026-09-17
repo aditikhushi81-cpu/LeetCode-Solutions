@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0682-baseball-game](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0885-spiral-matrix-iii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
