@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2326-spiral-matrix-iv](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2326-spiral-matrix-iv](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0885-spiral-matrix-iii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
+| [2326-spiral-matrix-iv](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
