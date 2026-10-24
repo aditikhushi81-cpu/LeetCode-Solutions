@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1436-destination-city) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aditikhushi81-cpu/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Queue
 |  |
 | ------- |
